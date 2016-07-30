@@ -16,6 +16,7 @@
 		3F8F61841D4CC8810092ACD0 /* Share2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F8F61831D4CC8810092ACD0 /* Share2Tests.m */; };
 		3F8F618F1D4CC8810092ACD0 /* Share2UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F8F618E1D4CC8810092ACD0 /* Share2UITests.m */; };
 		3F9A3BDD1D4CCAD300710004 /* Fuck.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F9A3BDC1D4CCAD300710004 /* Fuck.m */; settings = {ASSET_TAGS = (); }; };
+		3FBD35401D4CCB5D0063E9A9 /* FuckYou.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FBD353F1D4CCB5D0063E9A9 /* FuckYou.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		3F8F61901D4CC8810092ACD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F9A3BDB1D4CCAD300710004 /* Fuck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fuck.h; sourceTree = "<group>"; };
 		3F9A3BDC1D4CCAD300710004 /* Fuck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fuck.m; sourceTree = "<group>"; };
+		3FBD353E1D4CCB5D0063E9A9 /* FuckYou.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FuckYou.h; sourceTree = "<group>"; };
+		3FBD353F1D4CCB5D0063E9A9 /* FuckYou.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FuckYou.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				3F8F61701D4CC8810092ACD0 /* ViewController.m */,
 				3F9A3BDB1D4CCAD300710004 /* Fuck.h */,
 				3F9A3BDC1D4CCAD300710004 /* Fuck.m */,
+				3FBD353E1D4CCB5D0063E9A9 /* FuckYou.h */,
+				3FBD353F1D4CCB5D0063E9A9 /* FuckYou.m */,
 				3F8F61721D4CC8810092ACD0 /* Main.storyboard */,
 				3F8F61751D4CC8810092ACD0 /* Assets.xcassets */,
 				3F8F61771D4CC8810092ACD0 /* LaunchScreen.storyboard */,
@@ -278,6 +283,7 @@
 				3F8F61711D4CC8810092ACD0 /* ViewController.m in Sources */,
 				3F8F616E1D4CC8810092ACD0 /* AppDelegate.m in Sources */,
 				3F9A3BDD1D4CCAD300710004 /* Fuck.m in Sources */,
+				3FBD35401D4CCB5D0063E9A9 /* FuckYou.m in Sources */,
 				3F8F616B1D4CC8810092ACD0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
